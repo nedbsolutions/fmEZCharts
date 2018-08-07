@@ -1,8 +1,5 @@
 # fmEZCharts
-fmEZCharts - Create Charts for FileMaker that run in a web viewer within minutes. 
-
 Author NorthEast DataBase Solutions - Brian Ouimette on 2018-Aug-05 
-------------------------------------------------------------------------------------------
 
 ------------------------------------------------------------------------------------------
 fmEZCharts is Powered by the ChartJS Library and is licensed under the MIT license. For more information go to the javascript tab and click on the Labels to view the full license and javascript libraries.
