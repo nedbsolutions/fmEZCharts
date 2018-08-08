@@ -21,3 +21,7 @@ Special Considerations
 3. The total count of labels and the total count of data should match - IE. If you have 5 labels you should have 5 points of data like shown above
 4. When working with colors - If the field label has array in the label, you can either use a single hex value with no quotes - IE. #676767 or you can use the label
 
+------------------------------------------------------------------------------------------ 
+Video Demo
+
+http://vimeo.com/283976343
