@@ -1,7 +1,7 @@
 # fmEZCharts
 Author NorthEast DataBase Solutions - Brian Ouimette on 2018-Aug-05 
 
-***** NOTE ***** Charts will only work in FileMaker 16 and 17. 
+***** NOTE ***** Charts will only work in FileMaker 16 and 17. If working on Windows please contact me with issues. Some versions of Windows/IE will not render the chart. Updates coming to address this issue. 
 
 ------------------------------------------------------------------------------------------
 fmEZCharts is Powered by the ChartJS Library. For more information go to the javascript tab and click on the Labels to view the full license and javascript libraries.
