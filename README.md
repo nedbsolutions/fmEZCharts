@@ -13,7 +13,7 @@ Instructions
 1. Use the plus button to create a new chart or explore through the pre-loaded charts
 2. Start editing the options of the charts. On commit the chart will reload
 3. Once your chart is looking the way you want, go to Export / Docu and copy chart to clipboard. 
-4. Paste HTML from the clipboard to a text field in your preference table
+4. Paste HTML from the clipboard to a text field in your preference table.
 5. In a webviewer - Substitute out the placeholder for Labels and the placeholder for Data with the labels and data arrays from your file. **NOTE** If using multiple datasets or if you chose not to add placeholders you will need to add your own place holders for each dataset, and a placeholder for the labels.
 
 ------------------------------------------------------------------------------------------ 
