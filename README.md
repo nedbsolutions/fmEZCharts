@@ -22,9 +22,8 @@ Special Considerations
 1. Data formatting - Data must be formatted in a JSON Array as numbers - [12,24,36,48,60]
 2. Chart Labels - Labels must be formatted in a JSON Array as string - ["Label1","Label2","Label3","Label4","Label5"]
 3. The total count of labels and the total count of data should match - IE. If you have 5 labels you should have 5 points of data like shown above.
-4. When working with colors - If the field label has array in the label, you can either use a single hex value with no quotes - IE. #676767 or you can use an array. When working with these fields if there is already a value in the field it will add the newly selected color as well as any values in the field into an array. 
 
 ------------------------------------------------------------------------------------------ 
 Video Demo
 
-http://vimeo.com/283976343
+https://www.dropbox.com/s/h0k89gwv63knfgc/ezcharts_2019_CE_release_final.mp4?dl=0
